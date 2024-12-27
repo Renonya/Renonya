@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am currently studying python in particular. I am learning web scraping.
+
 # About me
 ```python
 class Renonya:
@@ -12,5 +14,3 @@ class Renonya:
 if __name__ == '__main__':
     me = Renonya()
 ```
-
-# I am currently studying python in particular. I am learning web scraping.
