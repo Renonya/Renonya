@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Renonya/Renonya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About me
+```python
+class Renonya:
+    def __init__(self):
+        self.telegram_username = "https://t.me/mfy_le"
+        self.discord_id = '_reochan_'
+        self.language = "Python"
+        self.learning = "Web Scraping" 
 
-Here are some ideas to get you started:
+if __name__ == '__main__':
+    me = Renonya()
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# I am currently studying python in particular. I am learning web scraping.
