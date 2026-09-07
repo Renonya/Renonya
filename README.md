@@ -10,8 +10,8 @@ I hate request library (tls-client, requests, aiohttp, websocket)
 ```python
 class Renonya:
     def __init__(self):
-        self.telegram_username = "https://t.me/mfy_le"
-        self.discord_id = '_reochan_'
+        self.telegram_username = ""
+        self.discord_id = ''
         self.language = "Python"
         self.learning = "Web Scraping" 
 
