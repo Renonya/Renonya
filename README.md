@@ -1,17 +1,15 @@
 ## Hi there 👋
 
-I am currently studying python in particular. I am learning web scraping.
+Right now, I’m mostly focusing on learning Python, specifically web scraping.
 
-I like automatic browser library (selenium, playwright)
-
-I hate request library (tls-client, requests, aiohttp, websocket)
+I really like using browser automation libraries (like Selenium and Playwright).
+On the other hand, I'm not a big fan of request-based libraries (like tls-client, requests, aiohttp, or websockets).
 
 # About me
 ```python
 class Renonya:
     def __init__(self):
-        self.telegram_username = ""
-        self.discord_id = ''
+        self.discord_id = 's3nafloral'
         self.language = "Python"
         self.learning = "Web Scraping" 
 
