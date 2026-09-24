@@ -9,7 +9,6 @@ On the other hand, I'm not a big fan of request-based libraries (like tls-client
 ```python
 class Renonya:
     def __init__(self):
-        self.discord_id = 's3nafloral'
         self.language = "Python"
         self.learning = "Web Scraping" 
 
